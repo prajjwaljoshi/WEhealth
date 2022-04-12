@@ -3,10 +3,10 @@
 //================================================================================
 
 // Default notification values
-const defaultBlinkValue = 2;
-const defaultWaterValue = 4;
-const defaultStretchValue = 9;
-const defaultPostureValue = 8;
+const defaultBlinkValue = 20;
+const defaultWaterValue = 5;
+const defaultStretchValue = 15;
+const defaultPostureValue = 20;
 
 const defaultNotificationValueMultiplier = 60 * 1000; // minutes
 
